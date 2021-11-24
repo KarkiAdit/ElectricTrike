@@ -1,11 +1,11 @@
 # ElectricTrike
 
-![alt text](https://github.com/KarkiAdit/ELECTRICTRIKE/blob/main/images/1.JPG?raw=true)
+![alt text](https://github.com/KarkiAdit/ElectricTrike/blob/main/images/1.JPG?raw=true)
 
 **1. How would I describe Electric Trike?**
 Electric trike is an **environment friendly three-wheeler automobile, a Nepali product made from scratch.** The idea to build it came along with the increasing air pollution in Kathmandu or must say around the world. It is a viable approach, an asset and a step towards making environment green and clean without hindering the transportation luxury. (To my defence, many countries in Europe have started riding bicycles which obviously is a great initiative but doesn't give anyone luxury and obviously is time consuming but healthy.)
 
-![alt text](https://github.com/KarkiAdit/ELECTRICTRIKE/blob/main/images/1.JPG?raw=true)
+![alt text](https://github.com/KarkiAdit/ElectricTrike/blob/main/images/1.JPG?raw=true)
 
 **2. What was the fuel for the Trike? Or in other words, how was the Trike operated?**
 The Electric Trike was a three-way powered vehicle. It basically ran on three fuels: batteries, solar power and the hydrogen gas.
