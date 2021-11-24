@@ -7,7 +7,7 @@ Electric trike is an **environment friendly three-wheeler automobile, a Nepali p
 
 ![alt text](https://github.com/KarkiAdit/ElectricTrike/blob/main/images/1.JPG?raw=true)
 
-**2. What was the fuel for the Trike? Or in other words, how was the Trike operated?**
+**2. What was the fuel for the Trike? Or in other words, how was the Trike operated?**<br />
 The Electric Trike was a three-way powered vehicle. It basically ran on three fuels: batteries, solar power and the hydrogen gas.
 
 **3. What was the chemical processes/reactions used to create the fuel for the trike?**
