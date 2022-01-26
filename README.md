@@ -8,7 +8,7 @@
 ![alt text](https://github.com/KarkiAdit/ElectricTrike/blob/main/images/2.jpg?raw=true)
 
 ## 2. What was the fuel for the Trike? Or in other words, how was the Trike operated?
-`he Electric Trike was a three-way powered vehicle. It basically ran on three fuels: batteries, solar power, and the hydrogen gas.`
+`Electric Trike was a three-way powered vehicle. It basically ran on three fuels: batteries, solar power, and the hydrogen gas.`
 
 ## 3. What was the chemical processes/reactions used to create the fuel for the trike?
 `For batteries and solar power, it was only the matter of wiring. Hydrogen gas was a major offset. Industrial production of hydrogen gas is expensive so we thought of an idea to react Sodium hydroxide with aluminium and water which gave us Sodium Aluminate (it is used as a cloggant in toilets and also doesn't harm the environment) and hydrogen gas.`
