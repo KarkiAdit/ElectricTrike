@@ -31,6 +31,6 @@
 
 ## 5. Why is our trike useful for the society?
 
-`Firstly, it is environment friendly so it's a part of environment conservation. It was built with the idea of giving more within less. Meaning that it was really cheap (manufacturing cost = NRS. 35000 if solar panels not included, including solar panels can be about 60K nrs) and could be used anywhere in Nepal. It could carry 5 people straight up that was the carrying capacity of the motor. but our vehicle was just the model so we made a place only for one person.
+`Firstly, it is environment friendly so it's a part of environment conservation. It was built with the idea of giving more within less. Meaning that it was really cheap (manufacturing cost = NRS. 35000 if solar panels not included, including solar panels can be about 60K nrs) and could be used anywhere in Nepal. It could carry 5 people straight up that was the carrying capacity of the motor. but our vehicle was just the model so we made a place only for one person.`
 
-Could be used to carry loads in hilly and himalayan regions as the width of trike was way beyond a four wheeler. It was not even half the width of a four wheeler. Could be used for the disaster management like as in, carrying patients in narrow spaces or anything that you can think of!`
+`Could be used to carry loads in hilly and himalayan regions as the width of trike was way beyond a four wheeler. It was not even half the width of a four wheeler. Could be used for the disaster management like as in, carrying patients in narrow spaces or anything that you can think of!`
